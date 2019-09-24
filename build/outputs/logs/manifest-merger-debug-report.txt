@@ -1,0 +1,346 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [:react-native-maps] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:17:1-38:12
+MERGED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/f02877a0e2593d2c75bcd2118223dcec/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/fb9618ff88500f3c3f14900ca2209c07/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e1d8509beb2ac0b3cc1d52da03e30690/AndroidManifest.xml:17:1-29:12
+MERGED from [:react-native-i18n] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.9] /home/vu/.gradle/caches/transforms-2/files-2.1/7bc9b626021a43c51ba7151acf82787a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/fcf5b73ae1426324d298400ff780c272/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/vu/.gradle/caches/transforms-2/files-2.1/48c8b38a917e803d44ee22497f910a87/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/d6a023d71278c1cb9d571a1ec3a5aa46/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/7d0b78e4fc5cc413eb08bdde13894011/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vu/.gradle/caches/transforms-2/files-2.1/385bfd87d5b30e9c9fad07c3dd5885db/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/0f68d7bc775d13485a0ad261044c3273/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/96886cfa12ea3751aabec25fb754d615/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/0309a0598d14091fe9d11a1c6a95799d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/68cb45bcaa31ca8e156667195850d3df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/cc27202c915c2746c0f27018822faba0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/d61ac5e66a495a245db2b5784479a706/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/311b3a66c9cd680fc674ee0010991dff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/4b7aed79bb239accb45a3fd9639346e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/c84186dffc2a742c15bf15923f4c3a56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/519102679e879f899c45958775f3d1fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e259eb79535da2a5b9a33a2ab92bc7d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3c1308468e410d987cd28ba9a5d7d0c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/b3c49fd7c760220033d75a0a5d51c7c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3bf405466b9d8c7a1c48ff3ceb07d1c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/2203361dd629fbb908cad6b5178ab6dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/bd5552811e2f2b7630329a81c895d701/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/fd881b966f0ab0cd63062c0bd2ce0cb9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/091e7e45a2cb3d607d43fe5b6b5bda01/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/3fc6972a04719714cf62fba745163970/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/c463488c5b4d9934638a2434ef15e84d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/6b6c98c76d64ec0d83c9f9e43dde4e47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/9b48c0da7d4cec998ae4f51d09eebeb2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/815203563ed11cd4116ebac1c8d349cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/8ef08b0270cfced87f72b379f89aab03/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/12a8aece36107e945515b12817084f49/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/707225d3f99e380077fc10450bae90d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/5a632b6229e34102a43e37100adf499d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3d72a1cc9b7a82a4a3a4408bae2b6ed0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/741da38818f4add4fe3614ed0e095171/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/1e92de083b6ebb748864cefbfd574319/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/1b5f4e06aa51d9f166e38df8d1386f8c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/ae3999e4dec4de60f6765fad091f189d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vu/.gradle/caches/transforms-2/files-2.1/ea3ea7a38556ac948a36790f6ff73c68/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/c4e3583619d2015ccc6801e933fa48e7/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:react-native-maps] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/f02877a0e2593d2c75bcd2118223dcec/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/f02877a0e2593d2c75bcd2118223dcec/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/fb9618ff88500f3c3f14900ca2209c07/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/fb9618ff88500f3c3f14900ca2209c07/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:30:5-36:19
+MERGED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/f02877a0e2593d2c75bcd2118223dcec/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/f02877a0e2593d2c75bcd2118223dcec/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/fb9618ff88500f3c3f14900ca2209c07/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/fb9618ff88500f3c3f14900ca2209c07/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e1d8509beb2ac0b3cc1d52da03e30690/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e1d8509beb2ac0b3cc1d52da03e30690/AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.react:react-native:0.59.9] /home/vu/.gradle/caches/transforms-2/files-2.1/7bc9b626021a43c51ba7151acf82787a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] /home/vu/.gradle/caches/transforms-2/files-2.1/7bc9b626021a43c51ba7151acf82787a/AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/vu/.gradle/caches/transforms-2/files-2.1/48c8b38a917e803d44ee22497f910a87/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/vu/.gradle/caches/transforms-2/files-2.1/48c8b38a917e803d44ee22497f910a87/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/d6a023d71278c1cb9d571a1ec3a5aa46/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/d6a023d71278c1cb9d571a1ec3a5aa46/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/7d0b78e4fc5cc413eb08bdde13894011/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/7d0b78e4fc5cc413eb08bdde13894011/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vu/.gradle/caches/transforms-2/files-2.1/385bfd87d5b30e9c9fad07c3dd5885db/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vu/.gradle/caches/transforms-2/files-2.1/385bfd87d5b30e9c9fad07c3dd5885db/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/bd5552811e2f2b7630329a81c895d701/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/bd5552811e2f2b7630329a81c895d701/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/fd881b966f0ab0cd63062c0bd2ce0cb9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/fd881b966f0ab0cd63062c0bd2ce0cb9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vu/.gradle/caches/transforms-2/files-2.1/ea3ea7a38556ac948a36790f6ff73c68/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vu/.gradle/caches/transforms-2/files-2.1/ea3ea7a38556ac948a36790f6ff73c68/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/bd5552811e2f2b7630329a81c895d701/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:10:7-39
+	tools:ignore
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:15:7-46
+	android:roundIcon
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:12:7-52
+	tools:targetApi
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:9:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:16:7-18:66
+	android:value
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:18:9-64
+	android:name
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:17:9-54
+activity#com.igniteday234.MainActivity
+ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-sdk
+INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-maps] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/f02877a0e2593d2c75bcd2118223dcec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/f02877a0e2593d2c75bcd2118223dcec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/fb9618ff88500f3c3f14900ca2209c07/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/fb9618ff88500f3c3f14900ca2209c07/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e1d8509beb2ac0b3cc1d52da03e30690/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e1d8509beb2ac0b3cc1d52da03e30690/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-i18n] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /home/vu/.gradle/caches/transforms-2/files-2.1/7bc9b626021a43c51ba7151acf82787a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /home/vu/.gradle/caches/transforms-2/files-2.1/7bc9b626021a43c51ba7151acf82787a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/fcf5b73ae1426324d298400ff780c272/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/fcf5b73ae1426324d298400ff780c272/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/vu/.gradle/caches/transforms-2/files-2.1/48c8b38a917e803d44ee22497f910a87/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/vu/.gradle/caches/transforms-2/files-2.1/48c8b38a917e803d44ee22497f910a87/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/d6a023d71278c1cb9d571a1ec3a5aa46/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/d6a023d71278c1cb9d571a1ec3a5aa46/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/7d0b78e4fc5cc413eb08bdde13894011/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/7d0b78e4fc5cc413eb08bdde13894011/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vu/.gradle/caches/transforms-2/files-2.1/385bfd87d5b30e9c9fad07c3dd5885db/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vu/.gradle/caches/transforms-2/files-2.1/385bfd87d5b30e9c9fad07c3dd5885db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/0f68d7bc775d13485a0ad261044c3273/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/0f68d7bc775d13485a0ad261044c3273/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/96886cfa12ea3751aabec25fb754d615/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/96886cfa12ea3751aabec25fb754d615/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/0309a0598d14091fe9d11a1c6a95799d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/0309a0598d14091fe9d11a1c6a95799d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/68cb45bcaa31ca8e156667195850d3df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/68cb45bcaa31ca8e156667195850d3df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/cc27202c915c2746c0f27018822faba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/cc27202c915c2746c0f27018822faba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/d61ac5e66a495a245db2b5784479a706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/d61ac5e66a495a245db2b5784479a706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/311b3a66c9cd680fc674ee0010991dff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/311b3a66c9cd680fc674ee0010991dff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/4b7aed79bb239accb45a3fd9639346e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/4b7aed79bb239accb45a3fd9639346e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/c84186dffc2a742c15bf15923f4c3a56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/c84186dffc2a742c15bf15923f4c3a56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/519102679e879f899c45958775f3d1fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/519102679e879f899c45958775f3d1fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e259eb79535da2a5b9a33a2ab92bc7d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e259eb79535da2a5b9a33a2ab92bc7d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3c1308468e410d987cd28ba9a5d7d0c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3c1308468e410d987cd28ba9a5d7d0c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/b3c49fd7c760220033d75a0a5d51c7c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/b3c49fd7c760220033d75a0a5d51c7c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3bf405466b9d8c7a1c48ff3ceb07d1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3bf405466b9d8c7a1c48ff3ceb07d1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/2203361dd629fbb908cad6b5178ab6dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/2203361dd629fbb908cad6b5178ab6dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/bd5552811e2f2b7630329a81c895d701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/bd5552811e2f2b7630329a81c895d701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/fd881b966f0ab0cd63062c0bd2ce0cb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/fd881b966f0ab0cd63062c0bd2ce0cb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/091e7e45a2cb3d607d43fe5b6b5bda01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/091e7e45a2cb3d607d43fe5b6b5bda01/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/3fc6972a04719714cf62fba745163970/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/3fc6972a04719714cf62fba745163970/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/c463488c5b4d9934638a2434ef15e84d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/c463488c5b4d9934638a2434ef15e84d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/6b6c98c76d64ec0d83c9f9e43dde4e47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/6b6c98c76d64ec0d83c9f9e43dde4e47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/9b48c0da7d4cec998ae4f51d09eebeb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/9b48c0da7d4cec998ae4f51d09eebeb2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/815203563ed11cd4116ebac1c8d349cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/815203563ed11cd4116ebac1c8d349cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/8ef08b0270cfced87f72b379f89aab03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/vu/.gradle/caches/transforms-2/files-2.1/8ef08b0270cfced87f72b379f89aab03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/12a8aece36107e945515b12817084f49/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/12a8aece36107e945515b12817084f49/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/707225d3f99e380077fc10450bae90d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/707225d3f99e380077fc10450bae90d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/5a632b6229e34102a43e37100adf499d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/vu/.gradle/caches/transforms-2/files-2.1/5a632b6229e34102a43e37100adf499d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3d72a1cc9b7a82a4a3a4408bae2b6ed0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3d72a1cc9b7a82a4a3a4408bae2b6ed0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/741da38818f4add4fe3614ed0e095171/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/741da38818f4add4fe3614ed0e095171/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/1e92de083b6ebb748864cefbfd574319/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/1e92de083b6ebb748864cefbfd574319/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/1b5f4e06aa51d9f166e38df8d1386f8c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/1b5f4e06aa51d9f166e38df8d1386f8c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/ae3999e4dec4de60f6765fad091f189d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/ae3999e4dec4de60f6765fad091f189d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vu/.gradle/caches/transforms-2/files-2.1/ea3ea7a38556ac948a36790f6ff73c68/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vu/.gradle/caches/transforms-2/files-2.1/ea3ea7a38556ac948a36790f6ff73c68/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/c4e3583619d2015ccc6801e933fa48e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/vu/.gradle/caches/transforms-2/files-2.1/c4e3583619d2015ccc6801e933fa48e7/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/vu/ReactNative/IgniteDay234/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/3b84d50b8fa063934b55458098303723/AndroidManifest.xml:34:13-50
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] /home/vu/ReactNative/IgniteDay234/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/f02877a0e2593d2c75bcd2118223dcec/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/fb9618ff88500f3c3f14900ca2209c07/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/vu/.gradle/caches/transforms-2/files-2.1/fb9618ff88500f3c3f14900ca2209c07/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/f02877a0e2593d2c75bcd2118223dcec/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e1d8509beb2ac0b3cc1d52da03e30690/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e1d8509beb2ac0b3cc1d52da03e30690/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e1d8509beb2ac0b3cc1d52da03e30690/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/vu/.gradle/caches/transforms-2/files-2.1/e1d8509beb2ac0b3cc1d52da03e30690/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/vu/.gradle/caches/transforms-2/files-2.1/48c8b38a917e803d44ee22497f910a87/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vu/.gradle/caches/transforms-2/files-2.1/385bfd87d5b30e9c9fad07c3dd5885db/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vu/.gradle/caches/transforms-2/files-2.1/385bfd87d5b30e9c9fad07c3dd5885db/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/vu/.gradle/caches/transforms-2/files-2.1/48c8b38a917e803d44ee22497f910a87/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/vu/.gradle/caches/transforms-2/files-2.1/48c8b38a917e803d44ee22497f910a87/AndroidManifest.xml:9:13-58
