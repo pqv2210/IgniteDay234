@@ -997,14 +997,14 @@ public final class R {
         public static final int common_open_on_phone = 0x7f0c0050;
         public static final int common_signin_button_text = 0x7f0c0051;
         public static final int common_signin_button_text_long = 0x7f0c0052;
-        public static final int gcm_fallback_notification_channel_label = 0x7f0c0053;
-        public static final int header_description = 0x7f0c0054;
-        public static final int image_button_description = 0x7f0c0055;
-        public static final int image_description = 0x7f0c0056;
-        public static final int link_description = 0x7f0c0057;
-        public static final int search_description = 0x7f0c0058;
-        public static final int search_menu_title = 0x7f0c0059;
-        public static final int status_bar_notification_info_overflow = 0x7f0c005a;
+        public static final int gcm_fallback_notification_channel_label = 0x7f0c0054;
+        public static final int header_description = 0x7f0c0055;
+        public static final int image_button_description = 0x7f0c0056;
+        public static final int image_description = 0x7f0c0057;
+        public static final int link_description = 0x7f0c0058;
+        public static final int search_description = 0x7f0c0059;
+        public static final int search_menu_title = 0x7f0c005a;
+        public static final int status_bar_notification_info_overflow = 0x7f0c005b;
     }
     public static final class style {
         private style() {}
